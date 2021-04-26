@@ -1,0 +1,8 @@
+{
+  "name": "DBS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "671603d2"
+}
